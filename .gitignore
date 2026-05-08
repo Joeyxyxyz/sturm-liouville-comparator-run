@@ -1,0 +1,12 @@
+# Lake / Lean build artifacts
+.lake/
+lake-manifest.json
+lake-packages/
+build/
+*.olean
+*.ilean
+*.hash
+
+# OS
+.DS_Store
+Thumbs.db
